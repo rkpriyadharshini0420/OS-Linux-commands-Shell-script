@@ -1,4 +1,4 @@
-# OS-Linux-commands-Shell-scripting
+[# OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
@@ -1089,3 +1089,4 @@ fi
 
 # RESULT:
 The Commands are executed successfully.
+](https://github.com/nivethasuresh1408/OS-Linux-commands-Shell-script/blob/main/README.md)https://github.com/nivethasuresh1408/OS-Linux-commands-Shell-script/blob/main/README.md
